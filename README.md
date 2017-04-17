@@ -4,6 +4,10 @@ name : Sangguk Lee (Luan)
 
 e-mail : sangguk258@gmail.com
 
+### DESCRIPTION
+
+Tensorflow library를 이용하여 유사 이미지를 검색할 수 있습니다.
+
 ### INSTRUCTION
 
 0. elasticsearch를 실행합니다.

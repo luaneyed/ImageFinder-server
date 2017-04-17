@@ -23,9 +23,9 @@ e-mail : sangguk258@gmail.com
 3. 다음 명령어로 서버를 켭니다.
 	python findServer.py
 
-외부 컴퓨터 아무거나에서 다음 단계를 해도 됩니다.
+- Client Side From Here
 
-4. webFinder 프로젝트를 다운받아서, 압축을 풀고, 경로에 들어가서
+4. webFinder 프로젝트 [https://github.com/sangguk2/ImageFinder-client] 를 다운받아서, 압축을 풀고, 경로에 들어가서
 	npm install로 모듈들을 설치한 뒤
 	npm run start로 웹서버를 켭니다.
 

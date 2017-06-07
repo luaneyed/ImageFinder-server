@@ -19,7 +19,6 @@ Tensorflow library를 이용하여 유사 이미지를 검색할 수 있습니�
 
 2. 다음 경로에서 모델을 다운로드받아 /model 에 압축을 풉니다.
 	http://download.tensorflow.org/models/image/imagenet/inception-2015-12-05.tgz
-	이미 받아놨으므로, 안해도 됩니다.
 
 2. 다음 커맨드로 인덱싱할 수 있습니다.
 	python indexer.py [relative path of directory] (-p)
